@@ -18,5 +18,5 @@ Scikit-learn (TF-IDF, Cosine Similarity)
 (Optional) Streamlit or Flask for web UI
 
 🚀 How to Run
-git clone https://github.com/yourusername/movie-recommendation-system.git
-cd movie-recommendation-system
+git clone https://github.com/atulpathak03/Movie-Recommendation-System.git
+
